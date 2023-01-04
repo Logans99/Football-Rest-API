@@ -1,0 +1,21 @@
+{
+  "name": "santos_l_p2",
+  "version": "1.0.0",
+  "description": "My project 2 REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Logan Santos",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^12.0.0",
+    "my-sql": "^1.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
